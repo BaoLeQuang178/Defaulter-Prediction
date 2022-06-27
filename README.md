@@ -1,1 +1,2 @@
-# Home-Equity-Loan-analysis
+# Home Equity Loan analysis
+In this project, I have found that data scaling helps improve the metrics of Logistic Regression and Multilayer Perceptron model. After comparing performance of various models, XGBoost Classifier turns out to be the best model. Then, hyperparameter tuning steps are conduct for XGBoost Model to find the most optimal model. In order to decide customers who are eligible for home equity loan, the company should consider two factors: 1. Number of major derogatory reports and 2. Number of delinquent credit lines.
